@@ -1,0 +1,1 @@
+DROP TABLE `fb_share_settings`;

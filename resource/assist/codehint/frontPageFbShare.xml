@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codehint>
+	<var value="fbscript" name="Script from facebook that gets link of the site"></var>
+    <var value="fbsharebtn" name="Shows facebook share button"></var>
+</codehint>

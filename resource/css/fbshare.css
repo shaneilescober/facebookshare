@@ -1,0 +1,10 @@
+#fb_setting_1 table 			{width: 80%;}
+#fb_setting_1 table td			{padding-bottom: 10px;}
+#share_button       			{width: 100%;}
+
+.fb_share_label     			{width: 30%;}
+.fb_share_options   			{width: 15%;}
+
+.share_btn_css					{font-style: italic;}
+
+td, tr              			{border-collapse: collapse;}
